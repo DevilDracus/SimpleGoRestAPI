@@ -1,0 +1,20 @@
+[
+ {
+  "Date": "2021-08-14T12:17:02.6343936+02:00",
+  "EventType": "Error",
+  "Source": "HomeAssistantTest",
+  "VersionNumber": "0.5",
+  "Message": "Something went wrong.",
+  "StackTrace": "",
+  "CalledMethod": ""
+ },
+ {
+  "Date": "2021-08-14T12:17:02.6343936+02:00",
+  "EventType": "Error",
+  "Source": "HomeAssistantTest",
+  "VersionNumber": "0.5",
+  "Message": "Something went wrong.",
+  "StackTrace": "",
+  "CalledMethod": ""
+ }
+]
